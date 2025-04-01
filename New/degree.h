@@ -1,0 +1,5 @@
+
+
+enum {
+	SECURITY, NETWORK, SOFTWARE
+};
